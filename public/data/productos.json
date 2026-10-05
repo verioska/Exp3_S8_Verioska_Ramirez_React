@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Set de tazas artesanales",
+    "categoria": "Cocina",
+    "precio": 12990,
+    "stock": 8,
+    "descripcion": "Pack de cuatro tazas de ceramica con acabado mate.",
+    "color": "#df8e5d"
+  },
+  {
+    "id": 2,
+    "nombre": "Lampara de escritorio LED",
+    "categoria": "Hogar",
+    "precio": 24990,
+    "stock": 5,
+    "descripcion": "Lampara regulable con tres niveles de luz para estudio o trabajo.",
+    "color": "#5f9ea0"
+  },
+  {
+    "id": 3,
+    "nombre": "Mochila urbana impermeable",
+    "categoria": "Accesorios",
+    "precio": 32990,
+    "stock": 6,
+    "descripcion": "Mochila liviana con bolsillo para notebook y cierre reforzado.",
+    "color": "#445a7a"
+  },
+  {
+    "id": 4,
+    "nombre": "Kit de plantas aromaticas",
+    "categoria": "Jardin",
+    "precio": 15990,
+    "stock": 10,
+    "descripcion": "Maceteros pequenos con albahaca, menta y romero para interior.",
+    "color": "#6f9f64"
+  },
+  {
+    "id": 5,
+    "nombre": "Organizador de escritorio",
+    "categoria": "Oficina",
+    "precio": 9990,
+    "stock": 12,
+    "descripcion": "Base compacta con divisiones para lapices, notas y accesorios.",
+    "color": "#b36b83"
+  },
+  {
+    "id": 6,
+    "nombre": "Botella termica acero",
+    "categoria": "Deporte",
+    "precio": 18990,
+    "stock": 7,
+    "descripcion": "Botella de 750 ml que conserva liquidos frios o calientes.",
+    "color": "#4a8f8c"
+  }
+]
